@@ -16,7 +16,7 @@ se tenian que hacer diferentes secciones de la misma, hasta lograr el CRYD.
 
 README: [README](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/README.md "README")
 
-CRUD.
+CRUD..
                 
 1. CRUD HTML: [HTML](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/index.html "HTML")
 2. CRUD CSS: [CSS](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/style.css "CSS")
