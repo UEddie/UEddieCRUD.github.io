@@ -6,9 +6,9 @@ Descripcion del Proyecto "Proyecto CRUD" Por Eduardo Velazquez Avila.
 
 - El Proyecto CRUD se realizo desde 0 con HTML, CSS Y JavaScript, Apicando lo Aprendido durante estas semanas,
 se tenian que hacer diferentes secciones de la misma, hasta lograr el CRYD.
-- Se tenia una estructura base la cual cada uno tenia que interpretar a su manera y hacer su diseño.
+- Se tenia una estructura un CRUD con los campos a elegir pero funcional.
 
-# Shushine.li
+# CRUD
 
 ![](https://i.pinimg.com/originals/65/81/fa/6581faf164782eef958165def070487a.png)
 
@@ -16,7 +16,7 @@ se tenian que hacer diferentes secciones de la misma, hasta lograr el CRYD.
 
 README: [README](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/README.md "README")
 
-Landing de Venta.
+CRUD.
                 
 1. CRUD HTML: [HTML](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/index.html "HTML")
 2. CRUD CSS: [CSS](https://github.com/UEddie/UEddieCRUD.github.io/blob/main/style.css "CSS")
